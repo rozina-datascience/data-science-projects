@@ -62,7 +62,7 @@ This repository contains all the projects, tasks, and reports completed during m
 **Rozina Mohsin Pathan**  
 Aspiring Data Analyst | Educator Turned Data Enthusiast  
 📫 Email: rozina8617@gmail.com  
-🌐 [LinkedIn](www.linkedin.com/in/rozina-pathan-592550265)  
+🌐 [LinkedIn](https://www.linkedin.com/in/rozina-pathan-592550265?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZMZ4vCmxQDaXxTRtjRWfqw%3D%3D)  
 📁 Portfolio: More projects coming soon!
 
 ---
