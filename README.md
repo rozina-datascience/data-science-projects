@@ -1,5 +1,5 @@
 # data-science-projects
-Projects and tasks completed during my internship.
+
 Data Science Internship – Unified Mentor (Remote, 2024)
 
 This repository contains all the projects, tasks, and reports completed during my **3-month Data Science Internship** at [Unified Mentor](https://unifiedmentor.com). The internship was focused on real-world applications of data science and analytics, enhancing both technical and problem-solving skills.
